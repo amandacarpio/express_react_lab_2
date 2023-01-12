@@ -1,0 +1,14 @@
+[
+    {
+      "name": "unit-1-project",
+      "live": "https://vercel.com/amandacarpio/unit-1-project",
+      "git": "https://github.com/amandacarpio/unit-1-project",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    },
+    {
+      "name": "unique-planner-crud-app",
+      "live": "https://yup-crud-app.onrender.com",
+      "git": "https://github.com/amandacarpio/unique-planner-crud-app",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    }
+  ]
